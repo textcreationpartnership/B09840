@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech made before the King's most Excellent Majesty Charles the Second, on the shore where he landed at Dover. By Mr. John Reading B.D. who presented his Majesty with a Bible, the gift of the inhabitants there, May 25th. 1660.</title>
+            <author>Reading, John, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09840</idno>
+            <idno type="OCLC"> 80923455</idno>
+            <idno type="STC">Wing R453</idno>
+            <idno type="STC">ESTC R182395</idno>
+            <idno type="EEBO-CITATION">80923455</idno>
+            <idno type="OCLC">ocm 80923455</idno>
+            <idno type="VID">191976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191976)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2897:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech made before the King's most Excellent Majesty Charles the Second, on the shore where he landed at Dover. By Mr. John Reading B.D. who presented his Majesty with a Bible, the gift of the inhabitants there, May 25th. 1660.</title>
+                  <author>Reading, John, 1588-1667.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Sovereign (1660-1685 : Charles II) --  Poetry --  Early works to 1800.</term>
+               <term>Dover (England) --  History --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:191976:1"/>
+            <head>A Speech made before the King's moſt Excellent Majeſty CHARLES the Second, on the Shore where he Landed at <hi>Dover.</hi> By Mr. <hi>John Reading</hi> B. D. who preſented his Majeſty with a Bible, the Gift of the Inhabitants there, <hi>May</hi> 25<hi rend="sup">th.</hi> 1660.</head>
+            <opener>
+               <salute>Dread Soveraign!</salute>
+            </opener>
+            <p n="1">1. BE pleaſed to know that your Majeſties loyal Subjects, the Mayor, Jurates, and Commons of this your Town and Port of <hi>Dover,</hi> ſeriouſly minding the admirable work of God's Mercy in your Majeſties Deliverances, Preſervations and reſtitution unto your long afflicted <hi>People,</hi> cannot but enquire for ſome Remonſtrance of their due thankfulneſſe to God, and Declaration of their Joy of your Majeſties peaceable, and ſafe
+<hi>Return</hi> into your Kingdomes.</p>
+            <p n="2">2. Nor can they find any means in their power here ſo to accommodate, As the preſentation of your Majeſty with this holy Book, commanding our Allegiance and faithful Obedience to our Soveraigne Lord, God's immediate Vice-gerent over us on Earth.</p>
+            <p n="3">3. And if we may light our Taper to this Sun, we muſt ſay it is God's eternal will, in the fulneſſe of time revealed for Mans ſalvation: The golden <hi>Pot</hi> of Heavenly Manna fitting every age, and palate, wherewith God having fed his <hi>Iſraell</hi> for a time, ſaid of this ſelected Homer, of the ſame (ſufficient for every man to ſalvation) <hi>recondatur poſteris.</hi>
+            </p>
+            <p n="4">4. Nor may we be diffident of your Majeſties gracious acceptance hereof, conſidering your invincible love of truth (according to the eſtimate thereof, by the <hi>Prince</hi> after God's own heart) better then thouſands of gold and ſilver; 'tis the Treaſure hid in the Lord's field, the ineſtimable riches of his mercy in Chriſt our Life, and that through which we ſhall prolong our dayes in the Land; the royal Ornament of holy <hi>Princes,</hi> which they carry as the <hi>Symbolum</hi> of God's preſence with them and bleſſing on them.</p>
+            <p n="5">5. No more ſhall we add concerning this tabernacle of God's teſtimony, whoſe beauty, and riches are within, but our hearty prayer to the Almighty, that it may be our happy
+<hi>auſpicium Regni</hi> to your ſacred Majeſty, and as the Arke at <hi>Obed Edom</hi>'s houſe, a bleſſing, cauſing all to proſper, and the good Lord God ſay <hi>Amen,</hi> and let all God's people preſent ſay <hi>Amen, Amen.</hi>
+            </p>
+            <div type="body_of_speech">
+               <div xml:lang="lat" type="version">
+                  <p>In reditum exoptatiſſimum Regiae Majeſtatis Sacratiſſimae apud Dubrenſes.</p>
+                  <p>Votum pro Rege, Lege, &amp; Grege.</p>
+                  <lg>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> Vocat Ariſtoteles.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Carolus</hi> ſecundus Vivat Rex;</l>
+                     <l>Rediviva jam tandem currat Lex.</l>
+                     <l>Exultent verè Proteſtantes,</l>
+                     <l>Exulent nec non veri Recuſantes.</l>
+                  </lg>
+                  <lg>
+                     <l>Exurgat Deus, &amp; diſſipentur inimici Regis.</l>
+                  </lg>
+                  <lg>
+                     <head>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Rex viva Lex.</head>
+                     <l>Vivida Lex noſter Rex, noſtri Spiritus oris,</l>
+                     <l>Luminibus lux, cujus &amp; eſt abſentia morte,</l>
+                     <l>Pejor. Juda Leo juvenis ſit, ſimus &amp; Agni;</l>
+                     <l>Dum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> lupi, &amp; Vulpes ſtupidi metuunt, fugiunt<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </l>
+                     <l>Paſtor adeſt noſter: Deus en mirand<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> peregit,</l>
+                     <l>Fit caput Angelli ſummum lapis ipſe r<gap reason="illegible" resp="#OXF" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ctus:</l>
+                     <l>Nam ſua ſceptra tenet Rex noſter, legifer Ille,</l>
+                     <l>Cujus &amp; Herculei ſcymni ira rebellibus eſt par:</l>
+                     <l>Sed ſua conſpicuum comitas ſibi ducet honorem;</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>nde timete Deum verum Regem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> coletis.</l>
+                  </lg>
+                  <trailer>VIVAT REX.</trailer>
+                  <closer>Sic obteſtatur
+<signed>Majeſtatis veſtrae perenni. ſervorum humilimus, <hi>R. B.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <l>Regis ad exemplum totis componitur orbis.</l>
+                     <l>Qualis Rex, talis Grex.</l>
+                  </postscript>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <p>Engliſhed. Upon the moſt deſired return of the Kings moſt Sacred Majeſty at
+<hi>Dover.</hi>
+                  </p>
+                  <lg>
+                     <l>An humble Sute, or Supplication,</l>
+                     <l>For King, and Law, and the whole Nation.</l>
+                  </lg>
+                  <lg>
+                     <l>The King is Law's life <hi>Ariſtotle</hi> cries.</l>
+                     <l>Stopt be that mouth which Royal Law defies.</l>
+                  </lg>
+                  <lg>
+                     <l>May <hi>Charles</hi> the ſecond King, live long and Raign;</l>
+                     <l>The Lawes concur at length reviv'd again:</l>
+                     <l>Let Proteſtants rejoyce from bondage free,</l>
+                     <l>Let non-conformiſts each Exiled be.</l>
+                  </lg>
+                  <lg>
+                     <l>Let God Ariſe, and the King's Enemies</l>
+                     <l>Scatter'd ſhall be with their Hyprocriſies.</l>
+                  </lg>
+                  <lg>
+                     <head>The King is a living Law.</head>
+                     <l>Our King's a lively Law, our Noſtrils breath,</l>
+                     <l>Light of our Eyes, whoſe abſence worſe then death.</l>
+                     <l>Judah's a Lyons Whelp, let us Lambes be;</l>
+                     <l>Since Wolves, and Foxes ſhamed, Fear, and Flee;</l>
+                     <l>Our Shepheard's come, great wonders God hath done,</l>
+                     <l>What was diſpis'd is now th'head Corner ſtone:</l>
+                     <l>For He the Scepter beareth our Law-giver,</l>
+                     <l>Whoſe wrath's a Lyon fell to the bad liver:</l>
+                     <l>Yet his free Mercy will Him Glory bring,</l>
+                     <l>Hence fear ye God, and honour ye the King.</l>
+                  </lg>
+                  <closer>GOD SAVE THE KING.</closer>
+                  <closer>So prayeth
+<signed>the moſt humble of your Majeſties continual Subjects, <hi>Rich. Bradſhaw.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the year 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
